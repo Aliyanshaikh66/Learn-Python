@@ -236,7 +236,7 @@ print(packing_person_info(name="aliyanshaikh",
 
 ```sh
 name = aliyanshaikh
-country = Finland
+country = Pakistan
 city = Helsinki
 age = 250
 {'name': 'aliyanshaikh', 'country': 'Finland', 'city': 'Helsinki', 'age': 250}
