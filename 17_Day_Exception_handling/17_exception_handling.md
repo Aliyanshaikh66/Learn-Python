@@ -237,9 +237,9 @@ print(packing_person_info(name="aliyanshaikh",
 ```sh
 name = aliyanshaikh
 country = Pakistan
-city = Helsinki
-age = 250
-{'name': 'aliyanshaikh', 'country': 'Finland', 'city': 'Helsinki', 'age': 250}
+city = Karachi
+age = 22
+{'name': 'aliyanshaikh', 'country': 'Pakistan', 'city': 'Karachi, 'age': 22}
 ```
 
 ## Spreading in Python
