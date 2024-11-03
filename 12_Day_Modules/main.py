@@ -6,4 +6,4 @@ mass = 100;
 weight = mass * g
 print(weight)
 print(p)
-print(p['firstname'])
+print(p['firstsname'])
