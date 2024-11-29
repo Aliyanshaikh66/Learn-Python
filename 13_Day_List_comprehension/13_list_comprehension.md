@@ -1,6 +1,6 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 13 - List Comprehension</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/aliyanshaikh66/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/aliyan-shaikh66/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/aliyanshaikh66">
@@ -8,7 +8,7 @@
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/aliyanshaikh66/" target="_blank">aliyanshaikh66 Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/aliyanshaikh66/" target="_blank">aliyanshaikh66  </a><br>
 <small> Second Edition: July, 2021</small>
 </sub>
 
@@ -198,7 +198,7 @@ print(two_power_of_five)  # 32
    ```
 6. Change the following list of lists to a list of concatenated strings:
    ```py
-   names = [[('aliyanshaikh66', 'Yetayeh')], [('David', 'Smith')], [('Donald', 'Trump')], [('Bill', 'Gates')]]
+   names = [[('aliyanshaikh66', 'Ali')], [('David', 'Smith')], [('Donald', 'Trump')], [('Bill', 'Gates')]]
    output
    ['aliyanshaikh66 Yetaeyeh', 'David Smith', 'Donald Trump', 'Bill Gates']
    ```
