@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 9 - Conditionals</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Aliyan/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://twitter.com/Aliyan">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Aliyan?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/Aliyan/" target="_blank">Aliyan Shaikh</a><br>
 <small> Second Edition: July, 2021</small>
 </sub>
 
@@ -260,8 +260,8 @@ Enter number two: 3
 
 ```py
         person={
-    'first_name': 'Asabeneh',
-    'last_name': 'Yetayeh',
+    'first_name': 'Aliyan',
+    'last_name': 'Shaikh',
     'age': 250,
     'country': 'Finland',
     'is_marred': True,
@@ -279,7 +279,7 @@ Enter number two: 3
      * If the person is married and if he lives in Finland, print the information in the following format:
 
 ```py
-    Asabeneh Yetayeh lives in Finland. He is married.
+    Aliyan Shaikh lives in Finland. He is married.
 ```
 
 🎉 CONGRATULATIONS ! 🎉
