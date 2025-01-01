@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 14 - Higher Order Functions</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/aliyanshaikh6666/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/aliyanshaikh66/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/aliyanshaikh66">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aliyanshaikh6666?style=social">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aliyanshaikh66?style=social">
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/aliyanshaikh6666/" target="_blank">aliyanshaikh6666 Yetayeh</a><br>
+  <a href="https://www.linkedin.com/in/aliyanshaikh6666/" target="_blank">aliyanshaikh66 Yetayeh</a><br>
   <small>Second Edition: July, 2021</small>
   </sub>
 </div>
