@@ -8,8 +8,8 @@
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/aliyan-shaikh66/" target="_blank">aliyan-shaikh66 Yetayeh</a><br>
-  <small> Second Edition: July, 2021</small>
+  <a href="https://www.linkedin.com/in/aliyan-shaikh66/" target="_blank">aliyan-shaikh66  </a><br>
+  <small> Second Edition: January, 2025</small>
   </sub>
 </div>
 </div>
