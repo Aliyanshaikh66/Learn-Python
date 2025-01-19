@@ -203,7 +203,7 @@ def print_full_name(first_name, last_name, country):
     print("I am {} {}. I love to teach.".format(
         first_name, last_name, country))
 
-print_full_name("aliyanshaikh6666", "Yetayeh",'Finland')
+print_full_name("aliyanshaikh6666", "66",'Finland')
 ```
 
 ## Built-in Higher Order Functions
