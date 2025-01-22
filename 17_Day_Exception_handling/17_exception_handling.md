@@ -1,4 +1,5 @@
 <div align="center">
+  
   <h1> 30 Days Of Python: Day 17 - Exception Handling </h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/aliyan-shaikh66/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
@@ -8,7 +9,7 @@
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/aliyanshaikh/" target="_blank">aliyanshaikh 66</a><br>
+  <a href="https://www.linkedin.com/in/aliyan-shaikh66/" target="_blank">aliyanshaikh</a><br>
   <small> Second Edition: July, 2021</small>
   </sub>
 </div>
