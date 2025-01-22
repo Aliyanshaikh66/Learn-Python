@@ -3,7 +3,7 @@
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/aliyan-shaikh66/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Aliy">
+  <a class="header-badge" target="_blank" href="https://twitter.com/Ay">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aliyan-shaikh66?style=social">
   </a>
 
