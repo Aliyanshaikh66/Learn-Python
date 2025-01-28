@@ -7,7 +7,7 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aliyan?style=social">
   </a>
 <sub>Author:
-<a href="https://www.linkedin.com/in/aliyan/" target="_blank">aliyan shaikh</a><br>
+<a href="https://www.linkedin.com/in/aliyan/" target="_blank">Aliyan shaikh</a><br>
 <small>Second Edition: July, 2021</small>
 </sub>
 </div>
