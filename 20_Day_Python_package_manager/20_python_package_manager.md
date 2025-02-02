@@ -81,7 +81,7 @@ aliyan@Aliyan:~$ pip install numpy
 Let us start using numpy. Open your python interactive shell, write python and then import numpy as follows:
 
 ```py
-asabeneh@Asabeneh:~$ python
+aliyan@Aliyan:~$ python
 Python 3.9.6 (default, Jun 28 2021, 15:26:21)
 [Clang 11.0.0 (clang-1100.0.33.8)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
