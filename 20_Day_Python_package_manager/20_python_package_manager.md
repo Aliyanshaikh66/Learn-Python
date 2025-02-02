@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/aliyan-shaikkh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aliyan?style=social">
   </a>
 
 <sub>Author:
@@ -125,9 +125,9 @@ import webbrowser # web browser module to open websites
 # list of urls: python
 url_lists = [
     'http://www.python.org',
-    'https://www.linkedin.com/in/asabeneh/',
-    'https://github.com/Asabeneh',
-    'https://twitter.com/Asabeneh',
+    'https://www.linkedin.com/in/aliyan-shaikh/',
+    'https://github.com/aliyanshaikh66',
+    'https://twitter.com/aliyan-shaikh',
 ]
 
 # opens the above list of websites in a different tab
@@ -160,7 +160,7 @@ pip show packagename
 ```
 
 ```sh
-asabeneh@Asabeneh:~$ pip show pandas
+aliyan@Aliyan:~$ pip show pandas
 Name: pandas
 Version: 1.2.3
 Summary: Powerful data structures for data analysis, time series, and statistics
@@ -176,7 +176,7 @@ Required-by:
 If we want even more details, just add --verbose
 
 ```sh
-asabeneh@Asabeneh:~$ pip show --verbose pandas
+aliyan@Aliyan:~$ pip show --verbose pandas
 Name: pandas
 Version: 1.2.3
 Summary: Powerful data structures for data analysis, time series, and statistics
@@ -212,7 +212,7 @@ Entry-points:
 Generate installed Python packages with their version and the output is suitable to use it in a requirements file. A requirements.txt file is a file that should contain all the installed Python packages in a Python project.
 
 ```sh
-asabeneh@Asabeneh:~$ pip freeze
+aliyan@Aliyan:~$ pip freeze
 docutils==0.11
 Jinja2==2.7.2
 MarkupSafe==0.19
@@ -230,7 +230,7 @@ API stands for Application Program Interface. It is a means to exchange structur
 Let us install _requests_:
 
 ```py
-asabeneh@Asabeneh:~$ pip install requests
+aliyan@Aliyan:~$ pip install requests
 ```
 
 We will see _get_, _status_code_, _headers_, _text_ and _json_ methods in _requests_ module:
@@ -382,7 +382,7 @@ The folder structure of your package should look like this:
 Now let's open the python interactive shell and try the package we have created:
 
 ```sh
-asabeneh@Asabeneh:~/Desktop/30DaysOfPython$ python
+aliyan@aliyan:~/Desktop/30DaysOfPython$ python
 Python 3.9.6 (default, jan 28 2025, 15:26:21)
 [Clang 11.0.0 (clang-1100.0.33.8)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
@@ -400,8 +400,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> arithmetics.power(5, 3)
 125
 >>> from mypackage import greet
->>> greet.greet_person('Asabeneh', 'Yetayeh')
-'Asabeneh Yetayeh, welcome to 30DaysOfPython Challenge!'
+>>> greet.greet_person('aliyan', 'Shaikh')
+'aliyan Shaikh, welcome to 30DaysOfPython Challenge!'
 >>>
 ```
 
