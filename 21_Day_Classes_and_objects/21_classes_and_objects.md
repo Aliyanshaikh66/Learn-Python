@@ -8,7 +8,7 @@
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Aliyan Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Aliyan Shai</a><br>
 <small>Second Edition: July, 2021</small>
 </sub>
 
