@@ -8,7 +8,7 @@
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Aliyan Shaikh</a><br>
+<a href="https://www.linkedin.com/in/aliyan-shaikh/" target="_blank">Aliyan Shaikh</a><br>
 <small>Second Edition: feb, 2025</small>
 </sub>
 
