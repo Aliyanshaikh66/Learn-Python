@@ -135,7 +135,7 @@ class Person:
           self.city = city
 
 
-p = Person('aliyan', 'Yetayeh', 250, 'Finland', 'Helsinki')
+p = Person('aliyan', 'aliyan', 250, 'Finland', 'Karachi')
 print(p.firstname)
 print(p.lastname)
 print(p.age)
@@ -146,10 +146,10 @@ print(p.city)
 ```sh
 # output
 aliyan
-Yetayeh
+aliyan
 250
 Finland
-Helsinki
+Karachi
 ```
 
 ### Object Methods
@@ -169,13 +169,13 @@ class Person:
       def person_info(self):
         return f'{self.firstname} {self.lastname} is {self.age} years old. He lives in {self.city}, {self.country}'
 
-p = Person('aliyan', 'Yetayeh', 250, 'Finland', 'Helsinki')
+p = Person('aliyan', 'aliyan', 250, 'Finland', 'Karachi')
 print(p.person_info())
 ```
 
 ```sh
 # output
-aliyan Yetayeh is 250 years old. He lives in Helsinki, Finland
+aliyan aliyan is 250 years old. He lives in Karachi, Finland
 ```
 
 ### Object Default Methods
@@ -186,7 +186,7 @@ Sometimes, you may want to have a default values for your object methods. If we 
 
 ```py
 class Person:
-      def __init__(self, firstname='aliyan', lastname='Yetayeh', age=250, country='Finland', city='Helsinki'):
+      def __init__(self, firstname='aliyan', lastname='shaikh', age=250, country='Finland', city='lahore'):
           self.firstname = firstname
           self.lastname = lastname
           self.age = age
@@ -204,7 +204,7 @@ print(p2.person_info())
 
 ```sh
 # output
-aliyan Yetayeh is 250 years old. He lives in Helsinki, Finland.
+aliyan shaikh is 250 years old. He lives in lahore, Finland.
 John Doe is 30 years old. He lives in Noman city, Nomanland.
 ```
 
@@ -214,7 +214,7 @@ In the example below, the person class, all the constructor parameters have defa
 
 ```py
 class Person:
-      def __init__(self, firstname='aliyan', lastname='Yetayeh', age=250, country='Finland', city='Helsinki'):
+      def __init__(self, firstname='aliyan', lastname='shaikh', age=250, country='Finland', city='lahore'):
           self.firstname = firstname
           self.lastname = lastname
           self.age = age
@@ -240,7 +240,7 @@ print(p2.skills)
 
 ```sh
 # output
-aliyan Yetayeh is 250 years old. He lives in Helsinki, Finland.
+aliyan shaikh is 250 years old. He lives in lahore, Finland.
 John Doe is 30 years old. He lives in Noman city, Nomanland.
 ['HTML', 'CSS', 'JavaScript']
 []
@@ -256,7 +256,7 @@ class Student(Person):
     pass
 
 
-s1 = Student('Eyob', 'Yetayeh', 30, 'Finland', 'Helsinki')
+s1 = Student('Eyob', 'shaikh', 30, 'Finland', 'lahore')
 s2 = Student('Lidiya', 'Teklemariam', 28, 'Finland', 'Espoo')
 print(s1.person_info())
 s1.add_skill('JavaScript')
@@ -274,7 +274,7 @@ print(s2.skills)
 
 ```sh
 output
-Eyob Yetayeh is 30 years old. He lives in Helsinki, Finland.
+Eyob shaikh is 30 years old. He lives in lahore, Finland.
 ['JavaScript', 'React', 'Python']
 Lidiya Teklemariam is 28 years old. He lives in Espoo, Finland.
 ['Organizing', 'Marketing', 'Digital Marketing']
@@ -287,14 +287,14 @@ We can add a new method to the child or we can override the parent class methods
 
 ```py
 class Student(Person):
-    def __init__ (self, firstname='aliyan', lastname='Yetayeh',age=250, country='Finland', city='Helsinki', gender='male'):
+    def __init__ (self, firstname='aliyan', lastname='shaikh',age=250, country='Finland', city='lahore', gender='male'):
         self.gender = gender
         super().__init__(firstname, lastname,age, country, city)
     def person_info(self):
         gender = 'He' if self.gender =='male' else 'She'
         return f'{self.firstname} {self.lastname} is {self.age} years old. {gender} lives in {self.city}, {self.country}.'
 
-s1 = Student('Eyob', 'Yetayeh', 30, 'Finland', 'Helsinki','male')
+s1 = Student('Eyob', 'aliyan', 30, 'Finland', 'Karachi','male')
 s2 = Student('Lidiya', 'Teklemariam', 28, 'Finland', 'Espoo', 'female')
 print(s1.person_info())
 s1.add_skill('JavaScript')
@@ -310,7 +310,7 @@ print(s2.skills)
 ```
 
 ```sh
-Eyob Yetayeh is 30 years old. He lives in Helsinki, Finland.
+Eyob aliyan is 30 years old. He lives in Karachi, Finland.
 ['JavaScript', 'React', 'Python']
 Lidiya Teklemariam is 28 years old. She lives in Espoo, Finland.
 ['Organizing', 'Marketing', 'Digital Marketing']
