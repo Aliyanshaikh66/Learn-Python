@@ -4,12 +4,12 @@
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/Aliyan">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aliyan?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Aliyan Shai</a><br>
-<small>Second Edition: July, 2021</small>
+<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Aliyan Shaikh</a><br>
+<small>Second Edition: feb, 2025</small>
 </sub>
 
 </div>
