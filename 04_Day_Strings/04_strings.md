@@ -1,6 +1,6 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 4 - Strings</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Aliyan/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Aliyan-Shaikh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/Aliyan">
@@ -8,8 +8,8 @@
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/Aliyan/" target="_blank">Aliyan Shaikh</a><br>
-<small> Second Edition: July, 2021</small>
+<a href="https://www.linkedin.com/in/Aliyan-Shaikh/" target="_blank">Aliyan Shaikh</a><br>
+<small> Second Edition: July, 2024</small>
 </sub>
 
 </div>
