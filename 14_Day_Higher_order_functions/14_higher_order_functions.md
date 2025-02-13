@@ -1,6 +1,6 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 14 - Higher Order Functions</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/aliyan-shaikh66/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/aliyan-shaikh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/aliyanshaikh">
@@ -8,8 +8,8 @@
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/aliyan-shaikh66/" target="_blank">aliyan-shaikh66</a><br>
-  <small>Second Edition: July, 2021</small>
+  <a href="https://www.linkedin.com/in/aliyan-shaikh/" target="_blank">Aliyan-Shaikh</a><br>
+  <small>Second Edition: Dec, 2024</small>
   </sub>
 </div>
 </div>
